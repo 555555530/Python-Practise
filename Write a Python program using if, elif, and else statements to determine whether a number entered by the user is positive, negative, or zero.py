@@ -9,13 +9,4 @@ elif a==-2:
 else:
     print("Zero")    
 
-
-# a=int(input("Enter a value:"))
-
-# match(a):
-#     case "-":
-#         print("Negative")
-#     case "+":
-#         print("Positive")
-#     case _:
-#         print("Zero")        
+     
